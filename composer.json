@@ -3,11 +3,5 @@
     "type": "library",
     "description": "Doctrine2 behavioral extensions",
     "homepage": "http://wembassy.com/",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Chris McIntosh",
-            "email": "cmcintosh@wembassy.com"
-        },
-    ],
+    "license": "MIT"
 }
